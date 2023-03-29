@@ -35,3 +35,8 @@ input[type = "submit"]{
     color: red;
     margin: 0px;
 }
+
+#username,
+#password{
+    border: 1px 3px 5px 7px;
+}
